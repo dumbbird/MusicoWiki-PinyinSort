@@ -1,5 +1,5 @@
-# PinyinSort 0.2.0
-Add pinyin as a category sorting collation
+# PinyinSort - Musico.wiki Customized Edition
+Add pinyin as a category sorting collation - https://musico.wiki
 
 ## Install
 * Clone the respository, rename it to PinyinSort and copy to extensions folder
